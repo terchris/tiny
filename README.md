@@ -1,19 +1,19 @@
-# @terchriss/tiny
+# @terchris/tiny
 
-[![npm (scoped)](https://img.shields.io/npm/v/@terchris/tiny.svg)](https://www.npmjs.com/package/@bterchris/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@terchris/tiny.svg)](https://www.npmjs.com/package/@terchris/tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@terchris/tiny.svg)](https://www.npmjs.com/package/@terchris/tiny)
 
 testing how to create a npm package
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @terchris/tiny
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@terchris/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
